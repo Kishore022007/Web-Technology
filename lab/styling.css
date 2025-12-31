@@ -1,0 +1,9 @@
+body{background:#f4f6f8;}
+.box{
+  width:150px;
+  height:150px;
+  position:absolute;
+  border-radius:10px;
+}
+.one{background:#ff6b6b;top:60px;left:60px;}
+.two{background:#4dabf7;top:90px;left:90px;}
